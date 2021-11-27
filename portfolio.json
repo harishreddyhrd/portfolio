@@ -1,0 +1,35 @@
+{
+  "basicInfo": {
+    "firstName": "Harish",
+    "lastName": "Reddy",
+    "surName": "Dappili",
+    "title": "UI Developer (Angular)",
+    "profileImage": "",
+    "email": "officialforharish@gmail.com",
+    "phone": "+91-9493-000-703",
+    "address": {
+      "houseNumber": "18-4-39",
+      "street": "2nd Line",
+      "location": "Kedareswarapeta",
+      "city": "Vijayawada",
+      "pincode": "520003",
+      "state": "Andhra Pradesh",
+      "country": "India"
+    },
+    "website": "http://harishreddy.info"
+  },
+  "workExperience": [
+    {
+      "companyName": "Wipro Limited",
+      "position": "Project Engineer",
+      "role": "UI Developer (Angular)",
+      "startDate": "10-06-2019",
+      "endDate": "10-03-2021",
+      "jobDescription": "Job Description",
+      "roleSummary": [
+        "Roles and Responsibilities-01",
+        "Roles and Responsibilities-02"
+      ]
+    }
+  ]
+}
