@@ -37,10 +37,14 @@
       "role": "UI Developer (Angular)",
       "startDate": "10-06-2019",
       "endDate": "10-03-2021",
-      "jobDescription": "Job Description",
+      "jobDescription": "As an Angular developer I need to implement user interfaces using TypeScript and the Angular framework for the FEDEX client websites.",
       "roleSummary": [
-        "Roles and Responsibilities-01",
-        "Roles and Responsibilities-02"
+        "Develop the admin and the asset library websited for the customer i.e., FEDEX",
+        "Identify issues with the front end code and rectify them to remove bugs",
+        "Develop visually aesthetic user interfaces as per the provided customer prototypes",
+        "Create unit tests to ensure code is functioning as expected.",
+        "Know the best practices and modern ways of creating interfaces and ensure the interface is able to interact with backend APIs",
+        "Collaborate with fellow frontend and backend developers regularly to ensure components can be integrated together"
       ]
     }
   ],
