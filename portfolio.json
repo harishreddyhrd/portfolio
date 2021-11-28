@@ -8,7 +8,7 @@
     "email": "officialforharish@gmail.com",
     "phone": "+91-9493-000-703",
     "address": {
-      "houseNumber": "18-4-39",
+      "houseNumber": "18-4-39, 1st Floor",
       "street": "2nd Line",
       "location": "Kedareswarapeta",
       "city": "Vijayawada",
@@ -31,5 +31,61 @@
         "Roles and Responsibilities-02"
       ]
     }
-  ]
+  ],
+  "education": {
+    "degree": "Bachelor of Technology",
+    "discipline": "Electronics and Communication Engineering",
+    "institution": "Prasad V. Potluri Siddhartha Institute of Technology",
+    "studyType": "Full time",
+    "startDate": "2015",
+    "endDate": "2019",
+    "gpa": "8.81"
+  },
+  "skills": {
+    "primary": [
+      {
+        "name": "HTML-5",
+        "proficiencyLevel": "2"
+      },
+      {
+        "name": "CSS-3",
+        "proficiencyLevel": "2"
+      },
+      {
+        "name": "JS",
+        "proficiencyLevel": "2"
+      },
+      {
+        "name": "BOOTSTRAP-4",
+        "proficiencyLevel": "2"
+      },
+      {
+        "name": "ANGULAR-10",
+        "proficiencyLevel": "2"
+      }
+    ],
+    "secondary": [
+      { "name": "Adobe XD", "proficiencyLevel": "1" },
+      { "name": "Figma", "proficiencyLevel": "1" }
+    ]
+  },
+  "languagesKnown": [
+    {
+      "name": "Telugu",
+      "proficiencyLevel": "3"
+    },
+    {
+      "name": "Tamizh",
+      "proficiencyLevel": "1"
+    },
+    {
+      "name": "Hindi",
+      "proficiencyLevel":"1"
+    },
+    {
+      "name":"English",
+      "proficiencyLevel": "2"
+    }
+  ],
+  "interests": ["MUSIC", "BOOKS", "MOVIES"]
 }
